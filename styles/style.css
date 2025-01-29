@@ -27,6 +27,7 @@ body{
     color: var(--cor-secundaria);
     width: 100vw;
     height: 100vh;
+    gap: 82px;
 }
 
 .cabecalho__menu{
